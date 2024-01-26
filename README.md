@@ -1,6 +1,6 @@
 ## What context present in this Repo?
 
-1. Use of different type of Anotation -> @Components @Repository @Service @Autowired
+1. Use of different type of Anotation -> @Component @Repository @Service @Autowired
 2. getBean() to create object.
 
 
